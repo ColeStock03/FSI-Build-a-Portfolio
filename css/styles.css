@@ -1,0 +1,15 @@
+body {background-color: coral;
+
+}
+
+#code-image {
+    border-radius: 40px;
+    border: 2px solid rgb(55, 0, 255);
+    height: 30%;
+    width: 30%;
+}
+
+.header-centered{
+    text-align: center;
+
+}
